@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37484627560",
+    "project_id": "daftarteman-putri",
+    "storage_bucket": "daftarteman-putri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37484627560:android:e8c877f58d5aecdb27dddd",
+        "android_client_info": {
+          "package_name": "com.example.daftarteman_putri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37484627560-bajs337cllc5oc5lt02it1g8ivik8d70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7gzTTSgquW62JjT3UWAL9Xu6aB70ARHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37484627560-bajs337cllc5oc5lt02it1g8ivik8d70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
